@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+G:/Term 4/Data Structures 1/data final/bst.h
+varstruct.h
+G:/Term 4/Data Structures 1/data final/varstruct.h
+
+G:/Term 4/Data Structures 1/data final/evaluation.h
+
+G:/Term 4/Data Structures 1/data final/heap.h
+varstruct.h
+G:/Term 4/Data Structures 1/data final/varstruct.h
+
+G:/Term 4/Data Structures 1/data final/main.c
+stdio.h
+-
+string.h
+-
+ctype.h
+-
+stdlib.h
+-
+bst.h
+G:/Term 4/Data Structures 1/data final/bst.h
+heap.h
+G:/Term 4/Data Structures 1/data final/heap.h
+evaluation.h
+G:/Term 4/Data Structures 1/data final/evaluation.h
+
+G:/Term 4/Data Structures 1/data final/varstruct.h
+
